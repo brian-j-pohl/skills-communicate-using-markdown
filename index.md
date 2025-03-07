@@ -11,5 +11,9 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 a short, meaningful commit message that describes the change you made to the file lol
